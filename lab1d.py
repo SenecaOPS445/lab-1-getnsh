@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 
 # Define the required objects
-x = 11
-y = 3
-z = 6
+x = 10
+y = 2
+z = 5
 
 # Perform the calculation
 result = x + y * z
